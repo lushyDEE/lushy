@@ -1,0 +1,14 @@
+{
+  "name": "Edited Logger",
+  "description": "Temporarily logs edited messages for moderation purposes",
+  "authors": [
+    {
+      "name": "lushydee",
+      "id": "265064055490871297"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_audit_log_24px"
+  }
+}
